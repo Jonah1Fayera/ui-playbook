@@ -1038,9 +1038,10 @@
     polished "^3.4.2"
     styled-components "^5.0.1"
 
-"@next/mdx@^9.4.4":
-  version "9.4.4"
-  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-9.4.4.tgz#ad1da5ecd2f3ee4b07fdf9a938441efffd58af6b"
+"@next/mdx@^9.5.5":
+  version "9.5.5"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-9.5.5.tgz#c5742c7db722905c4c7456098c1f2ba1cae3994d"
+  integrity sha512-IdwwXrxqNhZuEeyVdCKtv1R2CqIsAZm/rtCUbE5WImFW3VK8nrSFDFi+JkoWoDcHgGgaJYgfoYAoieHV5POGJg==
 
 "@next/react-dev-overlay@9.4.4":
   version "9.4.4"
